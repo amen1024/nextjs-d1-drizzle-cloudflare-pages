@@ -1,0 +1,1 @@
+1. 当前项目使用nextjs开发，部署到cloudflare pages上运行。
